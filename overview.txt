@@ -1,0 +1,2 @@
+*This is just a general overview of the git hub.*
+*I will put up notes here on some docs occasionally, or I might just add to the general repository page.*
